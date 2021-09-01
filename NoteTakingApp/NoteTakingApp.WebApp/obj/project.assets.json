@@ -8693,11 +8693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
+      "projectUniqueName": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
       "projectName": "NoteTakingApp.WebApp",
-      "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
+      "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\obj\\",
+      "outputPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8714,11 +8714,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj": {
-              "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj"
+            "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj": {
+              "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj"
             },
-            "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
-              "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj"
+            "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
+              "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj"
             }
           }
         }

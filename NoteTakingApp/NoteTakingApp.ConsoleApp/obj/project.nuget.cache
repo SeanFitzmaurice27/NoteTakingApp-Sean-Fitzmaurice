@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1av68Uooqc4KLZW8YUWxp9NoJUEIPtydfq24fi9Ycr+LNssWEY6douc5Xgsw3RQaBUpP6GTwMjZa8rAh3n16Dw==",
+  "dgSpecHash": "k5yoXYxhBxfcHDptWFjVOO5dansQoNafMQH/OLohwMf+ygAff2O2yUseFhfgHhBIQbF1vK/Z9aRL8liYyOLn4Q==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.ConsoleApp\\NoteTakingApp.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.ConsoleApp\\NoteTakingApp.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

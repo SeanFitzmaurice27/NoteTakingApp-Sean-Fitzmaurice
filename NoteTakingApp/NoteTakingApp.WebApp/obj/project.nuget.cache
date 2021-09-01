@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l6gc5O4f5JxBEGMr5HJhO+JF3pFgZsMkTSHRefAg6rdOesnkQvP9iEKO7tdptzg3B3iSLMCzcSb6eOOOFRs2zg==",
+  "dgSpecHash": "ZtHZzq6W6evsIVfvDg6fX9s2ooZX4K18QPZ0802yhGk/xDbkWvkJbStJRc9JzxJ4aUUajsmIBAPxOw5z5lwCJw==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
+  "projectFilePath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

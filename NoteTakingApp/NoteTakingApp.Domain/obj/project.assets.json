@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
+      "projectUniqueName": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
       "projectName": "NoteTakingApp.Domain",
-      "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
+      "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\obj\\",
+      "outputPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj": {}
+    "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj": {
+    "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj",
         "projectName": "NoteTakingApp.DataAccess",
-        "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj",
+        "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\obj\\",
+        "outputPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
-                "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj"
+              "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
+                "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
+    "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
+        "projectUniqueName": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
         "projectName": "NoteTakingApp.Domain",
-        "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
+        "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\obj\\",
+        "outputPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj": {
+    "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
+        "projectUniqueName": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
         "projectName": "NoteTakingApp.WebApp",
-        "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
+        "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\NoteTakingApp.WebApp.csproj",
         "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.WebApp\\obj\\",
+        "outputPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj": {
-                "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj"
+              "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj": {
+                "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.DataAccess\\NoteTakingApp.DataAccess.csproj"
               },
-              "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
-                "projectPath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj"
+              "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj": {
+                "projectPath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj"
               }
             }
           }

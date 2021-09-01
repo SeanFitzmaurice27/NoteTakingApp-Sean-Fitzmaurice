@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxjNjz9YADqarPgP0OduR6a+yuijyKWybnSW9ZD+iM3toB4A3S7cwNNjsmQ5rZJZikNNTydZZNVroqC3mdSviA==",
+  "dgSpecHash": "xgiANmwQ9BSSLRbwNzP+dldRGvp5e/KDmqQ9jxJENVMiqYtPTHHqUTSQFFfj+NrqncFeYSC6cp1qfixQzftw9A==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\training-code\\05MVC\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
+  "projectFilePath": "C:\\Revature\\BackUp\\NoteTakingApp\\NoteTakingApp.Domain\\NoteTakingApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
